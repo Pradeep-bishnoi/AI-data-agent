@@ -9,14 +9,11 @@ A sophisticated multi-agent system for intelligent data processing and analysis 
 - [Architecture](#architecture)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
-- [Usage](#usage)
 - [Agent Descriptions](#agent-descriptions)
 - [Data Models](#data-models)
-- [Examples](#examples)
-- [Contributing](#contributing)
+
 
 ---
 
@@ -236,7 +233,6 @@ schema_info = db.schema_details("public")
 
 ---
 
-##  Usage
 
 
 
